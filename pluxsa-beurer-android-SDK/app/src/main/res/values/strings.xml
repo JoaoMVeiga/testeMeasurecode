@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Beurer Android</string>
+
+    <string name="scan_devices">Scan Devices</string>
+    <string name="device">Device</string>
+
+    <string name="back_button">back button</string>
+
+    <string name="all_records">All records</string>
+    <string name="first_record">First record</string>
+    <string name="last_record">Last record</string>
+    <string name="lower_than">Lower than</string>
+    <string name="higher_than">Higher than</string>
+    <string name="in_range">In range</string>
+    <string name="total_records">Total records</string>
+
+    <string name="get_version">Get Version</string>
+    <string name="set_time">Set Time</string>
+    <string name="get_time">Get Time</string>
+    <string name="get_storage_info">Get Storage Info</string>
+    <string name="get_data">Get data</string>
+
+    <string name="list_users">List Users</string>
+    <string name="take_measure">Take Measure</string>
+    <string name="create_user">Create User</string>
+    <string name="consent">Consent</string>
+    <string name="delete_user_data">Delete user data</string>
+
+
+</resources>
